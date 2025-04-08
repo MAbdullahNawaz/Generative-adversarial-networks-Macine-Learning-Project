@@ -1,2 +1,2 @@
-# Generative adversarial networks using Macine Learning
+# Generative adversarial networks using Machine Learning
 ### This code sets up and trains a Generative Adversarial Network (GAN) to generate images resembling those in the Fashion MNIST dataset. It begins by installing necessary libraries and loading the dataset, followed by building a generator to create images and a discriminator to classify them as real or fake. The training loop optimizes both models iteratively, and the results are visualized to track progress. Finally, the trained models are saved for future use, and the generator is tested by producing new images.
